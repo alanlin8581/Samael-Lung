@@ -2,10 +2,31 @@ body {
     font-family: 'Spicy Rice', cursive;
     background: black;
     color: red;
+    text-align: center;
 }
 
 img {
     height: 200px;
     width: 400px;
+    border: dashed;
+    color: blue;
 }
+
+p {
+     color: aqua;
+}
+h1 {
+     color: DeepSkyBlue;
+}
+
+li {
+    width: 100px;
+    margin: 0 auto;
+}
+    
+
+h2 {
+   color: lime;
+}
+
 
